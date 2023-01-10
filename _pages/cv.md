@@ -47,3 +47,5 @@ Service and leadership
 * President, Students' Gymkhana, IIT Hyderabad, 2021-2022
 * Transport Secretary, Students' Gymkhana, IIT Hyderabad, 2020-2021
 * Captain, IIT Hockey Club, Inter-IIT Sports Meet 2022
+
+[Download PDF Here](https://github.com/ArunSakthiAnandM/ArunSakthiAnandM.github.io/blob/7c01611623f8b690295e44c1854250f4e3b321c6/files/resume.pdf)

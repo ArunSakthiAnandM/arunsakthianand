@@ -16,4 +16,4 @@ I am currently working on a full stack project to develope a web application to 
 
 At my leisure, I love to play field hockey, watch football, listen to music(can sing too!) and play chess.
 
-I am looking for opportunities to work in the tech industry as a Software Developer. Please contact me if you find my [profile]() interesting.
+I am looking for opportunities to work in the tech industry as a Software Developer. Please contact me if you find my [profile](https://arunsakthianandm.github.io/cv/) interesting.

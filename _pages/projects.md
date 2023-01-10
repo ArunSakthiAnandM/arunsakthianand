@@ -9,6 +9,8 @@ author_profile: true
 
 Currently working on a Full-Stack Web Application to handle the requirements of the postal office in IIT Hyderabad.
 
+My other recent Projects are listed below:
+
 
 
 

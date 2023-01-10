@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,6 +12,13 @@ redirect_from:
 Education
 ======
 * B.Tech in Electrical Engineering, IIT Hyderabad, 2023(expected)
+
+Scholastic Achievements
+======
+* Secured All India Rank 1255 in JEE Advanced
+* Secured All India Rank 737 in JEE Mains
+* National Talent Search Examination (NTSE) Scholar
+* Kishore Vaigyanik Protsahan Yojana (KVPY) Scholar with All India Rank 144
 
 Work experience
 ======
@@ -31,23 +38,7 @@ Skills
 
 Projects
 ======
-* 
-
-projects
-======
   <ul>{% for post in site.projects %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
